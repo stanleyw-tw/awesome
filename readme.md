@@ -294,7 +294,7 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
-
+- [Sensor Fusion](https://github.com/stanleyw-tw/awesome-sensor-fusion#readme) - Learn how to do sensor fusion.
 
 ## Big Data
 
